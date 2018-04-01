@@ -3,7 +3,7 @@ A simple static HTTP server written in Go
 
 ## Build
 ```
-go get -u github.com/asev69onitor
+go get -u github.com/asev69/monitor
 go build github.com/asev69/monitor
 ```
 
